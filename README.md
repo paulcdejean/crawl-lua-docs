@@ -12,6 +12,28 @@ Return "s" to train strength. "d" to train dexterity. "i" to train intelligence.
 
 Called when "tab" is pressed.
 
+###c_kill_list(???)
+
+Unknown.
+
+###c_interrupt_activity(???)
+
+Unknown.
+
+###ch_stop_running(???)
+
+Unknown.
+
+###ch_start_running(???)
+
+Unknown.
+
+###c_assign_invletter(???)
+
+Unknown.
+
+
+
 #Autopickup:
 
 ###clear_autopickup_funcs()
