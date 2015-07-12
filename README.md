@@ -52,4 +52,31 @@ I'm not really sure, but if you have a function like: function at_feet() return 
 
 Then you can do: for item in at_feet() do stuff done
 
+###you.hunger()
+
+Returns your current hunger level as a number. 7 = stuffed. 6 = very full. 5 = full. 4 = not hungry. 3 = hungry. 2 = very hungry. 1 = almost starving. 0 = starving.
+
+###you.gourmand()
+
+Returns true if you have gourmand, false otherwise.
+
+###you.where()
+
+Returns your current location in string format. For instance "D:13" or "Temple"
+
+###you.god()
+
+Returns the god you currently worship in string format. For instance "Trog"
+
+###you.hp()
+
+Returns two numbers. The first is your current hp. The second is your max hp.
+
+###you.mp()
+
+Returns two numbers. The first is your current mp. The secondi s your max mp.
+
+###you.poisoned()
+
+Returns true if you're poisoned. Returns false if you're not poisoned.
 
