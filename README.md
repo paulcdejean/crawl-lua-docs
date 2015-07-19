@@ -278,3 +278,8 @@ Not sure.
 
 Not sure.
 
+#view
+
+###view.invisible_monster(x, y)
+
+Returns true if there's an invislbe monster that you can sense on that tile.
